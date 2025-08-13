@@ -36,5 +36,7 @@
 - C (small utilities)  
 - Go (CLI tools and small services)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fdecunta&show_icons=true&theme=default)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fdecunta&theme=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdecunta&layout=compact)
 
