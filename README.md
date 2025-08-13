@@ -1,5 +1,9 @@
 ## Facundo Decunta
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 **Environmental Scientist | PhD Candidate | Data Scientist**
 
 ## 🔬 Software Development
@@ -28,10 +32,9 @@
 - R (statistical modeling, data analysis, package development)  
 - Bash (automation, workflows)
 
-**Working knowledge of:**  
+**Some knowledge of:**  
 - C (small utilities)  
 - Go (CLI tools and small services)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fdecunta&show_icons=true&theme=default)
+
