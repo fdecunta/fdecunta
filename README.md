@@ -1,9 +1,5 @@
 ## Facundo Decunta
 
-**Environmental Scientist | PhD Candidate | Data Scientist**
-
----
-
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ZuiT7QMAAAAJ&hl=es)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-5774-1085)
 
@@ -12,6 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
+**Environmental Scientist | PhD Candidate | Data Scientist**
 
 ### R Package Development
 
