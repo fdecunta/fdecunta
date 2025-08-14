@@ -14,7 +14,7 @@
 
 ### R Package Development
 
-- **[minter](https://github.com/fdecunta/minter)** — R package for meta-analyses of interactions in factorial experiments, with applications in ecology and evolution.
+- **[minter](https://github.com/fdecunta/minter)** — R package for meta-analyses of interactions in factorial experiments.
 - **[orchaRd](https://github.com/daniel1noble/orchaRd)** — Contributor; tools for meta-analysis visualization and reporting in R.
 
 
