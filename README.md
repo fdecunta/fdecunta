@@ -10,10 +10,6 @@
 
 **Environmental Scientist | PhD Candidate | Data Scientist**
 
-![Location](https://img.shields.io/badge/Location-Buenos_Aires-blue?style=flat&logo=google-maps)
-![Institution](https://img.shields.io/badge/University-f-Buenos-Aires-003366?style=flat)
-
-
 ---
 
 ### R Package Development
