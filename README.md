@@ -31,9 +31,9 @@
 - C (small utilities)  
 - Go (CLI tools and small services)
 
-### Currently Learning
-
-- How to apply large language models (LLMs) to enhance and extend my own research tools
+### Learning
+- LLMs for research tools  
+- Data engineering for large-scale data workflows
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdecunta&layout=compact)
 
