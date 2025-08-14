@@ -11,18 +11,16 @@
 
 **Environmental Scientist | PhD Candidate | Data Scientist**
 
-## R Package Development
+### R Package Development
 
 - **[minter](https://github.com/fdecunta/minter)** — R package for meta-analyses of interactions in factorial experiments, with applications in ecology and evolution.
 - **[orchaRd](https://github.com/daniel1noble/orchaRd)** — Contributor; tools for meta-analysis visualization and reporting in R.
-- Author of some peer-reviewed publications in ecology.  
-  [Google Scholar Profile →](https://scholar.google.com/citations?user=ZuiT7QMAAAAJ&hl=es&oi=ao)
 
-## Learning
+### Learning
 
 - How to apply large language models (LLMs) to enhance and extend my own research tools
 
-## Technical Skills
+### Technical Skills
 
 **Proficient in:**  
 - Linux (daily driver, system administration, scripting)
