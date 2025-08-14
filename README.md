@@ -2,16 +2,17 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ZuiT7QMAAAAJ&hl=es)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-5774-1085)
-![Email](https://img.shields.io/badge/Email-fdecunta@example.com-D14836?style=flat&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
 
-**Environmental Scientist | PhD Candidate | Data Scientist**  
-University of Buenos Aires, Argentina
+**Environmental Scientist | PhD Candidate | Data Scientist**
+
+![Location](https://img.shields.io/badge/Location-Buenos_Aires-blue?style=flat&logo=google-maps)
+![Institution](https://img.shields.io/badge/University-f-Buenos-Aires-003366?style=flat)
+
 
 ---
 
