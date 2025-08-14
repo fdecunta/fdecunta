@@ -34,4 +34,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdecunta&layout=compact)
 
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fdecunta&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fdecunta&layout=compact)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fdecunta&theme=github)
+
 
