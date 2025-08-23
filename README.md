@@ -31,9 +31,6 @@
 - C (small utilities)  
 - Go (CLI tools and small services)
 
-### Learning
-- LLMs for research tools  
-- Data engineering for large-scale data workflows
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdecunta&layout=compact)
 
