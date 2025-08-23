@@ -31,6 +31,3 @@
 - C (small utilities)  
 - Go (CLI tools and small services)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdecunta&layout=compact)
-
