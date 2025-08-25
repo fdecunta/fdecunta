@@ -21,14 +21,13 @@
 ### Technical Skills
 
 **Proficient in:**  
-- Linux (daily driver, system administration, scripting)
-- Unix command-line tools (grep, sed, find, etc.)  
-- Python (CLI tools, automation, machine learning, APIs)  
-- R (statistical modeling, data analysis, package development)  
-- Bash (automation, workflows)
+- Linux
+- Unix command-line tools
+- Python 
+- R 
+- Bash
+- Statistics and machine learning
 
 **Some knowledge of:**  
-- C (small utilities)  
-- Go (CLI tools and small services)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdecunta&layout=compact)
+- C 
+- Go 
