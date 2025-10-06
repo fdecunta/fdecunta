@@ -5,6 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)]()
 
 
@@ -16,18 +17,3 @@
 
 - **[minter](https://github.com/fdecunta/minter)** — R package for meta-analyses of interactions in factorial experiments.
 - **[orchaRd](https://github.com/daniel1noble/orchaRd)** — Contributor; tools for meta-analysis visualization and reporting in R.
-
-
-### Technical Skills
-
-**Proficient in:**  
-- Linux
-- Unix command-line tools
-- Python 
-- R 
-- Bash
-- Statistics and machine learning
-
-**Some knowledge of:**  
-- C 
-- Go 
