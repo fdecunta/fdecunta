@@ -7,13 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)]()
-
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 
 **Environmental Scientist | PhD Candidate | Data Scientist**
 
----
-
-### R Package Development
-
-- **[minter](https://github.com/fdecunta/minter)** — R package for meta-analyses of interactions in factorial experiments.
-- **[orchaRd](https://github.com/daniel1noble/orchaRd)** — Contributor; tools for meta-analysis visualization and reporting in R.
