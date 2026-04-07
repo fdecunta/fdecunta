@@ -8,5 +8,5 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)]()
 
-**Environmental Scientist | PhD Candidate | Data Scientist**
+**Environmental Scientist | PhD Candidate**
 
